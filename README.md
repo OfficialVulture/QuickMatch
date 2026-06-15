@@ -11,8 +11,7 @@ You should see numbers like v22.18.0 and 10.9.3 and don't worry if they don't ma
 
 
 **Download and unzip the folder.**
-Place your breach file into this folder and rename it to combos.txt
-This folder will be where you move your SJ usernames.
+Place your breach file into this folder and rename it to combos.txt this folder will be where you move your SJ usernames.
 
 
 
